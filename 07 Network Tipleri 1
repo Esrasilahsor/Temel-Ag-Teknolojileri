@@ -1,0 +1,30 @@
+			07 Network Tipleri 1
+
+
+	Intranet:
+
+İş yerlerinde çalışanlar arası iletişim sağlamak ve bilgi paylaşmak amacıyla kullanılan, özel bir iş ağıdır. İnternet ile aynı network protokollerini ve aayynı alt yapıyı kullanır. 
+
+Genelde TCP/IP tabanlıdır ve yetkisiz kullanıcılardan bir firewall ile korunur. Bu güvenlik tedbiri sayesinde çift yönde iletişim trafiği kontrol edilir ve iç ağın korunması sağlanır.
+
+Bunun yanında Internet olmadan ya da sınırlandırılarak şirket içi iletişimin sağlandığı Intranetler de mevcuttur. Sadece şirket ağından ulaşılabilen bir sunucu bu tip Intranete örnektir.
+
+DMZ Alanı Intranete bir örnektir. Intranetler çalışanlar arası varolan iletişimi geliştirir ve ortak bir depolama alanı sağlar. Ayrıca kullanıcıların şirket verilerine, sistem bilgilerine ve e-postalarına kolaylıkla erişebilmelerini sağlar.
+
+Şirket çalışanları Internet üzerinden herhangi bir tarayıcı ile herhangi bir yerden Intranete ulaşabilirler. Bu durum küçük işletmelere de esneklik ve kontrol olanağı sağlar.
+
+
+
+	Extranet:
+
+Şirket çalışanlarının dışarısı ile iş birliği ve iletişim sağlayan özel iş ağıdır.
+
+İş ilişkilerini geliştirmek ve yönetmek konusunda çok önemli bir rol oynar. 
+
+Intarnetler ile benzerdir fakat Extranetlerde iş partnerleri, önemli müşteriler, tedarikçiler gibi seçili kullanıcılara  dışarıdan erişim izni verilmiştir. 
+
+Extranet kullanıcıları dikkatle seçilmiş bir gruptan oluşur ve kullanıcılara güvenlik açığı verilmemeye özen gösterilir. 
+
+Extarnetler için de bir DMZ bölgesi oluşturulabilir. DMZ savunmasız bölge olarak ifade edilebileceğimiz bir ağ yapısıdır. 
+
+Intranetlerden daha erişilebilirdir.

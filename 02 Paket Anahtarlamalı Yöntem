@@ -1,0 +1,20 @@
+			02 Paket Anahtarlamalı Yöntem
+
+
+Paketler, bir bağlantı sırasında aktarılması planlanan verinin küçük parçalara blünmüş halidir. 
+
+Paket anahtarlamada veri daha küçük boyutlarda paketlere ayrılarak gönderilir.
+
+Veri paketlerinin iki uç arasında iletimi sırasında ara noktalarda bekletilerek yeterli kapasite boşluğu olduğu anlarda bir sonraki noktaya iletilmesi temel prensibine dayalı olarak çalışır.
+
+Aynı zamanda aynı bağlantıya ait bir paket bir çncekinden farklı bir yolu kullanarak hedefe ulaşabilir.
+
+Her paket ağlarda ayrı ayrı işlendiğinden paketler kaynaktan gönderildikleri orijinal sıraya göre hedefe ulaşmamış olsalar bile orijinal mesaj hedefte yeniden oluşturulabilecek şekilde paketlenir ve paketlerin hedefte doğru sırayla alınmasını sağlar.
+
+Kaynak ve hedef arasıdnaki bir düğüm bozulduğunda ya da bir bağlantı koptuğunda alternatif yolların kullanılması mümkündür.
+
+Bu yöntemde paketler ağ meşgul veya dolu olsa bile kabul edilir. Ağ tıkanması olmuş ise paketlerin teslim süreleri artar ve gecikme olur.
+
+Gerçek zamanlı uygulamalarda tercih edilen bir yöntem değildir.
+
+İnternetin alt yapısında paket anahtarlamalı yöntem vardır.

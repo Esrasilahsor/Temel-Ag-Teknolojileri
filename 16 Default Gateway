@@ -1,0 +1,20 @@
+			16 Default Gateway
+
+
+Paketlerin diğer ağlara gönderilmesini sağlayan bir network cihazıdır. Örneğin Router, Katman 3 Switch gibi...
+
+Başka bir ağa geçiş yapabilmesi için kesinlikle bir default gatewayın olması gerekmektedir.
+
+	Default Gateway'in Genel Özellikleri:
+
+Yerel ağa bağlı olan arayüzünde, o network'teki cihazlarla
+aynı IP aralığından bir IP vardır.
+
+Local ağdan veri alabilir ve bunu bașka ağlara iletebilir.
+
+Diğer ağlara olan trafiği yönlendirir.
+
+** Default Gatewayım olmaması veya kapalı olması durumunda LAN içerisindeki trafik diğer ağlara iletilmez. 
+
+
+ARP : MAC adreslerini depolar. Kaynak ve hedef IP adresleri tutulur. 

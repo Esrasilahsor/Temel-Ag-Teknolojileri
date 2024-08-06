@@ -1,0 +1,32 @@
+			05 Uç Cihazlar ve Aracı Cihazlar
+
+
+	Uç Cihazlar: 
+
+Bilgisayarlar, ağ yazıcıları, akıllı telefonlar, güvenlik kameraları, mobil el cihazları, tabletler örnek verilebilir.
+
+Ağdaki her uç cihazın bir adresi vardır.
+
+
+	Aracı Cihazlar:
+
+Aracı cihazlar, uç cihazlara bağlantı sağlayan ve verilerin ağ üzerinden akması için arka planda çalışan cihazlardır.
+
+bilgisayarları ağa bağlar ve internet erişimi için birden çok ayrı ağa bağlanabilir.
+
+Anahtarlar(Switch), Kablosuz yönlendiriciler, Yönlendiriciler(Router), Güvenlik Duvarları(Firewall)
+
+Switchler OSI modelinin 2. ve 3. katmanında çalışır.
+
+
+Aracı Ağ Cihazlarının Gerçekleştirdiği İşlevler: 
+
+1- Veri sinyallerini yeniden oluşturma ve yeniden gönderme 
+
+2- Ağ üzerinde hangi yolların mevcut olduğu hakkında bilgi sağlama
+
+3- Diğer aygıtları, hatalar ve iletişim hataları konusunda bilgilendirme
+
+4- Mesaj hizmet kalitesi önceliklerine göre sınıflandırma ve yönlendirme 
+
+Güvenlik ayarlarına bağlı olarak veri akışına izin verme veya reddetme

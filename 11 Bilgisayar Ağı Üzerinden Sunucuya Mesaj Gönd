@@ -1,0 +1,21 @@
+			11 Bilgisayar Ağı Üzerinden Sunucuya Mesaj Gönderilmesi
+
+
+	1-HTTPS: 
+
+İstemci ve sunucu arasında gidip gelen isteklerin ve yanıtların içeriğini ve biçimlendirilmesini tanımlar.
+
+
+	2-TCP:
+
+Bilgilerin güvenilir bir şekilde teslim edilmesini garanti etmek ve uç cihazlar arasında akış konrtolünü yönetmekle sorumludur. 
+
+
+	3-IP:
+
+Gönderenden alıcıya mesajların iletilmesinden sorumludur. 
+
+
+	4-Ethernet:
+
+Aynı Yerel alan ağında (LAN) bir ağ arayüzü kartından başka bir ağ arayüzü kartına mesajların iletilmesinden sorumludur.

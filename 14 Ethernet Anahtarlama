@@ -1,0 +1,15 @@
+			14 Ethernet Anahtarlama 
+
+
+OSI katmanlarından Data Link ve Fiziksel katmanda çalışır. 
+
+
+	Ethernet Multicastin Özellikleri: 
+
+IPv4 multicast paketleri için hedef MAC adresi 01-00-5E ile, IPv6 multicast paketleri için hedef MAC adresi 33-33 ile başlar.
+
+IP paketlerinin dışındakiler için, örneğin STP ve LLDP ayrılmış multicast MAC adresleri vardir
+
+Switch multicast snooping ile yapılandırilmamışsa gelen paket, gelen port haricindeki tüm portlardan flood edilir.
+
+Eğer router multicast paketlerini route etmeye yapılandırılmamışsa bu paketler router tarafından forward edilmez. 

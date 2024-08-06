@@ -1,0 +1,62 @@
+			06 Port Çeşitleri
+
+
+	Seri Port(RS232):
+
+Özellikle bu port çok sık kullanılır. Yazarkasa, teraziler, numaratörler gibi cihazlar bu portu kullanır.
+
+	Paralel Port:
+
+Seri porta göre daha hızlıdır. Entegrelere yazılım atmak için kullanılır. Bu bağlantı noktası aynı anda Line Printer olarak da adlandırılır.
+
+	PS/2 Portları:
+
+Klavye ve Fare için kullanılan portlardır. Mor renk klavye için yeşil renk ise fare için kullanılır.
+
+	SCSI Portu:
+
+Bu portun işlevi çok sayıda aygıtı peş peşe bağlamaktır.
+
+ 	FireWire:
+
+Diz üstü bilgisayarlarda 4 iğneli, masaüstü bilgsayarlarda 6 iğneli kullanılmaktadır. USB bağlantıdan çok daha hızlıdır.
+
+ 	RJ-11 Portu:
+
+Genellikle modem bağlantıları için kullanılır.
+
+ 	RJ-45 Portu:
+
+Ethernet kartı portudur. Network bağlantısı için kullanılır.
+
+ 	USB Portu:
+
+Günümüzde pek çok aygıt için kullanılmaktadır. Flash Disk, Harici Hard Disk, Klavye, Fare, Ses ve TV Kartlarının yanı sıra Cep Telefonu, Dijital Fotoğraf makineleri burdan iletşim kurarlar.
+
+ 	Oyun Portu:
+
+Ses kartı üzerindeki 4. Bağlantı noktası oyun portuna aittir. Buraya joystick ve direksiyon gibi oyun kumandaları bağlanabilir.
+
+ 	VGA Portu:
+
+VGA kablosu her iki ucunda da PC veya Monitör bağlantılarına uygun bir şekilde tasarlanmıştır.
+
+ 	S-Video Portu:
+
+Bu port süper video bağlantısı olarak da bilinir. Ekran karlarının çoğunda bulunan bu bağlantı, televizyona bağlamak için kullanılır ve kameralarda da vardır.
+
+	DVI Portu:
+
+LCD Monitörlerde kullanılan dijital bağlantı arayüzüdür. Ekran kartından görüntüyü dijital sinyallerle aktarır.
+
+	HDMI Portu:
+
+Yüksek çözünürlüklü multimedya arayüzü olarak tanımlanır. Artık günümüzde pek çok görüntülü cihazda bu bağlantı birimi bulunmaktadır. Bu bağlantı ile ses ve görüntü bir arada aktarılabilir.
+
+	e-SATA Portu:
+
+Harici Hard Diskler ve bilgisayar arasındaki iletişimi hızlandırmak için kullanılır.
+
+	Ses Kartı Konnektörleri:
+
+Ses kartı girişleri hoparlör için yeşil, mikrofon için pembe ve ses girişi için de mavi renkte dizayn edilmiştir.

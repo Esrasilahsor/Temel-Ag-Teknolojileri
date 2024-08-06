@@ -1,0 +1,10 @@
+			01 Devre Anahtarlamalı Yöntem
+
+
+Kaynak ve hedef arasındaki belli olan yolu sadece o kaynak kullanır. Başka kaynaklar aynı anda kullanamaz.
+
+Devre kullanılmasa bile sadece p kaynağa ait olduğu için veri aktarımı olmaz. Bu da kaynakların ve bant genişliği kullanımınde verimsizliğe sebep olur. 
+
+Devre anahtarlamalı yöntem esnek değildir. Daha çok ses ve görüntü gibi gerçek zamanlı uygulamalar için idealdir.
+ 
+Kurulan yönün değiştirilmesi mümkün değildir.

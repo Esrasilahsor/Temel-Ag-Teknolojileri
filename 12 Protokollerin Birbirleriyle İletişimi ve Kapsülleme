@@ -1,0 +1,29 @@
+			12 Protokollerin Birbirleri İLe İletişimi ve Kapsülleme
+
+
+Protokoller diğer protokollerle birlikte çalışabilmelidir. Protokol paketleri birbirleriyle sorunsuz çalışacak şekilde tasarlanamıştır.
+
+
+			Kapsülleme:
+
+
+	Segment:
+
+Veri dördüncü katman olan Taşıma Katmanına geldiğinde segmentlere ayrılır.
+
+Segmentlere port numarası eklenir ve port numaralarına göre iletişim sağlanır. 
+
+	
+	Paket:
+
+Dördüncü katmandan gelen segmentlere üçüncü katman olan Ağ Katmanındaki IP adresleri eklenerek segmentler paketlere dönüştürülür. 
+
+
+	Frame(Çerçeve):
+
+İkinci katman olan Datalink katmanında ise paketlere MAC adresi eklenerek Frame'ler yani Çerçeveler oluştururlur. Frameler kapsülleme işleminin son aşamasıdır. 
+
+
+	Bit:
+
+Birinci Katmanda yani Fizisel Katmanda gelen frameler bitlere çevirilerek ağa gönderilir. 

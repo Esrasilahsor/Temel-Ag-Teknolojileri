@@ -1,0 +1,16 @@
+			03 Network ve Network Bileşenleri
+
+
+İki veya daha fazla bilgisayarın kablulu veya kablosuz bir şekilde birbirine bağlanarak veri alışverişinde bulunmasına network denir. 
+
+Bilinen en büyük network internettir. Bu ağın bir yöneticisi yoktur.
+
+Network insanların bireysel değil ortak çalışmasını amaçlar. Bu yüzden veri ve ekipman paylaşımı yapılır.
+
+IP yani Internet Protokolü, aplar arasında iletişimi düzenleyen protokoldür.
+
+İstemci, sistemdeki verilere ulaşmak i.in sunucudan istekte bulunan yapıdır. Sunucudan aldığı verileri kullanır. 
+
+Sunucu, sistemdeki verileri saklayan ve bu verileri istek geldiğinde istemciye ulaştıran, yüksek performansa sahip bilgisayar veya bilgisayar kümelerinin oluşturduğu yapıdır.
+
+Genellikle port ve arayüz(interface) terimleri birbirinin yerine kullanılabilir.

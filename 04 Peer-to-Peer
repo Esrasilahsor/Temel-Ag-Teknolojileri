@@ -1,0 +1,32 @@
+				04 Peer-to-Peer
+
+
+Merkezi kontrole ihtiyaç duymadan, iki veya daha fazla bilgisayarın veri paylaşmak için birbirine bağlandığı ağ protokolüne Peer-to-Peer ya da 2P2 denir. "Peer" szöcüğü "eş" anlamında kullanılır. 
+
+Peer-to-Peer ağlarda merkezi sunucu yapısına ihtiyaç yoktur.
+
+Peer-to-Peer ağlarda bilgisayarlar merkezi sunucuya bağlanmazlar. Çeşitli protokoller aracılığıyla birbirleri ile doğrudan iletişim kurarlar.
+
+
+	Avantajları:
+	
+Kolay kurulum sağlar.
+
+Yapı daha az komplekstir.
+
+Daha düşük maliyetlidir çünkü ağ cihazları ve özel sunucular gerekli değildir.
+
+Dosyaları aktarma ve yazıcıları paylaşma gibi basit görevler için kullanılabilir.
+
+
+	Dezavantajları:
+
+İdaresi oldukça zordur. Merkezi bir yönetimi yoktur.
+
+Güvenli değildir.
+
+Ölçülebilir değildir. 
+
+Tüm cihazlar hem istemci hem de sunucu olarak işlev görebilir ve bu da performansları düşürebilir.
+
+

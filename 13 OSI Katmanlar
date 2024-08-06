@@ -1,0 +1,72 @@
+			13 OSI Katmanlar
+
+
+	Physical Layer (Fiziksel Katman):
+
+Veri bağlantısının elektriksel ve fiziksel  özelliklerini ve bir cihaz ile cihazın fiziksel aktarımı arasındaki ilişkiyi ve aktarım modlarını tanımlar.
+
+Bitlerin çözümlenmesi bu katmanda yapılır.
+
+Çoğunlukla ham veri ile illgilenir. 
+
+Elektrik akımlarını 1 veya 0 olarak yorumlar
+
+
+	Data Link Layer (Veri Bağlantı Katmanı):
+
+İki cihaz arasında bağlantı kurmayı ve bu bağlantıyı sonlandırmayı sağlayan protokolü tanımlar. 
+
+Ayrıca bu cihazlar arasındaki veri akış kontrolü için de protokol tanımlar. 
+
+MAC Katmanı: Ağdaki cihazların ağ ortamına erişiminden ve veri iletim izninden sorumludur.
+
+LLC Katmanı: Ağ katmanı protokollerinin tanımlanması, daha sonra çözülmesi ve hata kontrollerinin sağlanmasından sorumludur. Verinin nasıl transfrer edileceğini yorumlayan katman olarak tanımlanabilir. Bu katmanda veri Frame yani çerçeve formatındadır. 
+
+
+	Network Layer (Ağ Katmanı): 
+
+Veri paketini, verinin farklı bir ağa gönderilmesi gerektiğinde yönlendiricilerin kullanacağı bilginin eklendiği katmandır. Bu katmanda veriler paket olarak taşınır. 
+
+Ağ katmanında verinin güvenli bir şekilde ulaştırılacağının garantisi verilmez. 
+
+Kısaca adresleme işleminin yapıldığı katman olarak tanımlayabiliriz. 
+
+IP protokolü bu katmanda çalışır, veriler paket olarak taşınır. 
+
+
+	Transprtation Layer (Taşıma, Aktarım Katmanı):
+
+Değişken uzunluklu veri dizilerinin yani Datagramların kaynak cihazdan hedef cihaza bir veya daha fazla ağ üzerinden servis kalitesini de koruyarak göndermeyi sağlar. 
+
+Üst katmanlardan gelen veriyi ağ paketi boyutunda parçalara böler. 
+
+TCP UDP protokolleri bu katmanda çalışır. Bu protokoller hata kontrolü gibi görevleri de yerine getirir. 
+
+Kısaca paketlerin gönderilip alındığı katman olarak da ifade edebiliriz. 
+
+
+	Session Layer (Oturum Katmanı):
+
+Cihazlar arasındaki bağlantıları kontrol eder. Yereldeki ve uzaktaki bağlantıları kurabilir, yönetebilir ve sonlandırabilir.
+
+Mesajlaşma kurallarından, uygulamalar arasındaki mesajlaşma kontrollerinden, farklı birimlere gidecek verilerin gurplanmasından, mesajlaşmaya kalınan noktadan devam edilmesinden ya da yeniden alınmasından sorumludur.
+
+
+	Presentation Layer (Sunum Katmanı):
+
+Uygulama katmanındaki varlıkların aralarındaki ortamı kurar.
+
+En önemli görevi yollanan verinin karşı bilgisayar tarafından anlaışılacak şekilde çevrilmesidir. Bu sayede farklı programların birbirlerinin verisini kullanabilmesi mümkün olur. 
+
+Uygulama katmanına verileri yollar daha sonra bu katmanda verinin yapısı, biçimi ile ilgili düzenlemeler yapılır. Verinin formatı belirenir. Ayrıca verinin şifrelenmesi, açılması, sıkıştırılması da bu katmanda yapılır. 
+
+GIF, JPEG, TIFF, ASC gibi uygulamalar bu katmanda çalışır.
+
+
+	Application Layer (Uygulama Katmanı):
+
+Son kullanıcıya en yakın olan OSI katmanıdır. Kullanıcı yazılımla, uygulamayla doğrudan etkileşimde bulunur.
+
+SSH, Telnet, FTP, TFTP, SMTP, SNMP, HTTP, DNS Protokolleri ve tarayıcılar bu katmanda çalışır.
+
+E-posta ve Database(veri tabanı) gibi uygulamalar da bu katman aracılığıyla yapılır. 

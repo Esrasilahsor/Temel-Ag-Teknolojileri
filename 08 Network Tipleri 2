@@ -1,0 +1,40 @@
+			08 Network Tipleri 2
+
+
+1-PAN
+2-LAN
+3-MAN
+4-WAN
+
+
+	PAN:
+
+Personal Area Network
+
+Kişisel cihazların birbiri ile bağlanması sonucu elde edilen kişisel ağdır.
+
+Bluetooth(10m) ve Infarnet(1-2m) PAN ağlarında en çok kullanılan teknolojilerdir.
+
+
+	LAN:
+
+Lokal Area Network
+
+
+	MAN:
+
+Metropollitan Area Network
+
+Bünyesinde birden çok lan sistemini barındıran, coğrafi ölçekte de LAN ile WAN arasında bir büyüklüğe sahip bir ağ sistemidir. 
+
+Lanları birbirine bağlayarak WAN hizmetini LAN'a ulaştırır. 
+
+Tek bir kuruma veya kuruluşa ait olabileceği gibi kamuya açık bir hizmet şeklinde de olabilir.
+
+Bir şehri tamamen kapsayacak büyüklükte de olabilir. 
+
+
+	WAN:
+
+Wide Area Network
+

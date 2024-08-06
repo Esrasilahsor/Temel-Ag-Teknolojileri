@@ -1,0 +1,34 @@
+			15 Network Katmanı: 
+
+
+4 temel işlem gerçekleştirir.
+
+	1- Uç Cihaz Adresleme
+
+	2- Encapsulation (Kapsülleme)
+
+	3-Routing (Yönlendirme) *Paketin hedefe gitmesi için geçtiği her bir Router'a Hop denir.
+
+	4- De-encapsulation *IP paketinin hedefi tarafından gerçekleştirilir.
+
+
+		IP'nin Temel Özellikleri:
+
+Connectionless: Veri paketlerini göndermeden önce hedefle bir bağlantı yoktur.
+Alıcıyı önceden haber vermeden mektup göndermeye benzer.
+
+Best Effort: IP, paket teslimatı garanti olmadığından dolayı güvenilmezdir. 
+IP iletşimden önce bir bağlantı kurulmasını gerektirmez. Kurulan bağlantıyı korumaya çalışmaz.
+Hedef cihaza gönderilen paketin teslim alınıp alınmadığını bilemezler.
+
+Media Independet (Ortamdan Bağımsız): İşlem, iletişim sağlanacağı ortamdan bağımsızdır. Yani bakır, fiber optik ya da wireless olmasının farkı yoktur.
+
+
+Bir cihaz aşağıdakilere paket gönderebilir:
+
+Kendisine: Bir cihaz kendisine 127.0.0.1 IP'si ile ping atabilir Bu cihazların loopback adresidir.
+
+Local host (yerel cihaz): Hedef ile kaynak cihazın aynı network'te olması durumudur.
+
+Remote host (uzak cihaz): Hedef ile kaynak cihazın farklı
+network'lerde olması durumudur.

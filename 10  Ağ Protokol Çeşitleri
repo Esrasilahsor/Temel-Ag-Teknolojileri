@@ -1,0 +1,27 @@
+			10  Ağ Protokol Çeşitleri
+
+
+	Ağ İletişim Protokolleri:
+
+IPv6 (İnternet Protokolü)
+HTTPS (Hiper Metin Aktarım Protokolü)
+TCP (İletim Kontrol Protokolü)
+
+
+	Ağ güvenlik Protokolleri:
+
+SSH (Güvenli Kabuk)
+SSL (Güvenli Yuva Katmanı)
+TLS (Aktarım Katmanı Güvenliği)
+
+
+	Yönlendirme Protokolleri:
+
+OSPF (İlk Kısa Yöne Öncelik)
+BGP (Sınır Ağ Geçidi Protokolü)
+
+
+	Hizmet Bulma Protokolleri:
+
+DHCP (Dinamik Ana Bilgisayar Yapılandırma Protokolü)
+DNS 

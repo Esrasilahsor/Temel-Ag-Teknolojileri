@@ -1,0 +1,24 @@
+			09 Yayın Çeşitleri
+
+
+	Unicast Yayın:
+
+Bir ana bilgisayardan yalnızca bir bilgisayara gönderilen pakettir. Switch'in ARP tablosunds hedef MAC adresi varsa tek bir  porttan bu paketi iletecektir. 
+
+Unicast yayın paketinin tek bir alıcıya giden yani noktaya yayın adresi olan bir hedef IP adresi vardır. 
+
+Kaynak IP adresi de yalnızca Unicast adresi olabilir çünkü paket yalnızca tek bir kaynaktan gelebilir.
+
+
+	Broadcast Yayın:
+
+Bir ana bilgisayardan alt ağındaki tüm bilgisayarlara gönderilen paketlerdir. Hub'lar ve switchler bu yayını tüm portlarından iletir. 
+
+
+	Multicast Yayını:
+
+Bir ana bilgisayardan belirli bilgisayarlara gönderilen pakettir.
+
+Switchler varsayılan olarak tüm ağa paketi iletir ama ilgili cihazlar geri gönüş sağlar. 
+
+Router cihazlar iç ağda oluşturulan bu multicast paketleri bir ara yüzünden diğerine geçirmezler.
